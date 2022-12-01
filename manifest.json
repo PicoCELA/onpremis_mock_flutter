@@ -1,6 +1,6 @@
 {
-    "name": "pm_app",
-    "short_name": "pm_app",
+    "name": "picomanager_flutter",
+    "short_name": "picomanager_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
